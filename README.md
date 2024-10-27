@@ -1,5 +1,4 @@
 # Save Water - Website using HTML and CSS
-=========================================
 
 <img src ="https://raw.githubusercontent.com/dxelnetwork/SaveWater/refs/heads/main/img/Screenshot.png" />
 
