@@ -1,6 +1,6 @@
-# Save Water - Website using HTML and CSS
+# Save Earth - Website using HTML and CSS
 
-<img src ="https://raw.githubusercontent.com/dxelnetwork/SaveWater/refs/heads/main/img/Screenshot.png" />
+<img src ="https://raw.githubusercontent.com/dxelnetwork/SaveEarth/refs/heads/main/img/Screenshot.png" />
 
 <a href="http://dxel.net> Contact </a>
 
